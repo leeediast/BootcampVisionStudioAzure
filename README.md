@@ -23,8 +23,3 @@ Este projeto visa realizar o reconhecimento de texto em imagens usando técnicas
 - **Automatizar o Processo**: Criar scripts para automatizar a coleta e processamento das imagens.
 
 ## Prints e Resultados
-
-Aqui estão alguns prints do processo e dos resultados obtidos:
-
-![Imagem de Exemplo](inputs/exemplo-imagem.jpg)
-![Resultado de OCR](output/resultados-imagem.txt)
